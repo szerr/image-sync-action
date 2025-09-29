@@ -1,3 +1,3 @@
-registry.cn-hangzhou.aliyuncs.com/hhyasdf:
+registry.cn-hangzhou.aliyuncs.com/commonly-images:
   password: ${ACR_PASSWORD}
-  username: hhyatcn
+  username: ${ACR_USERNAME}
