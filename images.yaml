@@ -17,4 +17,4 @@ wordpress:php7.4-fpm: "registry.cn-hangzhou.aliyuncs.com/commonly-images/wordpre
 alpine: "registry.cn-hangzhou.aliyuncs.com/commonly-images/alpine"
 alpine:3.16: "registry.cn-hangzhou.aliyuncs.com/commonly-images/alpine"
 node: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node"
-node:22-bookworm: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node
+node:22-bookworm: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node"
