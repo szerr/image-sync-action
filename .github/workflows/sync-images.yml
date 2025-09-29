@@ -1,4 +1,4 @@
-name: Sync nginx images
+name: Sync images
 
 on:
   workflow_dispatch:
