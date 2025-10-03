@@ -1,1 +1,1 @@
-redis: "registry.cn-hangzhou.aliyuncs.com/commonly-images/redis
+alpine: "registry.cn-hangzhou.aliyuncs.com/commonly-images/alpine"
