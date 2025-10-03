@@ -17,6 +17,8 @@ jobs:
           auth_file: ./auth.yaml
           images_file: ./images.yaml
           version: latest
-          proc: 6
+          proc: 3
+          retry: 3
         env:
           ACR_PASSWORD: ${{ secrets.ACR_PASSWORD }}
+          ACR_USERNAME: ${{ secrets.ACR_USERNAME }}
