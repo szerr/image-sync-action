@@ -34,9 +34,7 @@ wordpress:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/wordpress:l
 wordpress:php7.4-fpm: "registry.cn-hangzhou.aliyuncs.com/commonly-images/wordpress:php7.4-fpm"
 
 # Alpine Linux
-alpine:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/alpine:latest"
-alpine:3.16: "registry.cn-hangzhou.aliyuncs.com/commonly-images/alpine:3.16"
-alpine:3.18: "registry.cn-hangzhou.aliyuncs.com/commonly-images/alpine:3.18"
+alpine: "registry.cn-hangzhou.aliyuncs.com/commonly-images/alpine"
 
 # Node.js
 node:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node:latest"
