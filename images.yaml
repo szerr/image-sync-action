@@ -1,3 +1,4 @@
+# nginx
 nginx:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/nginx:latest"
 nginx:1.22: "registry.cn-hangzhou.aliyuncs.com/commonly-images/nginx:1.22"
 nginx:1.27-bookworm: "registry.cn-hangzhou.aliyuncs.com/commonly-images/nginx:1.27-bookworm"
@@ -10,6 +11,11 @@ mysql:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/mysql:latest"
 mysql:8: "registry.cn-hangzhou.aliyuncs.com/commonly-images/mysql:8"
 mysql:8.0: "registry.cn-hangzhou.aliyuncs.com/commonly-images/mysql:8.0"
 mysql:5.7: "registry.cn-hangzhou.aliyuncs.com/commonly-images/mysql:5.7"
+
+# redis
+redis:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/redis:latest"
+redis:7: "registry.cn-hangzhou.aliyuncs.com/commonly-images/
+redis:8: "registry.cn-hangzhou.aliyuncs.com/commonly-images/redis:8"
 
 # Debian
 debian:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/debian:latest"
@@ -33,3 +39,5 @@ alpine:3.18: "registry.cn-hangzhou.aliyuncs.com/commonly-images/alpine:3.18"
 node:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node:latest"
 node:18: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node:18"
 node:20: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node:20"
+node:22-bookworm: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node:22-bookworm"
+node:22-bookworm-slim: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node:22-bookworm-slim"
