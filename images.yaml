@@ -1,21 +1,35 @@
 nginx:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/nginx:latest"
 nginx:1.22: "registry.cn-hangzhou.aliyuncs.com/commonly-images/nginx:1.22"
 nginx:1.27-bookworm: "registry.cn-hangzhou.aliyuncs.com/commonly-images/nginx:1.27-bookworm"
+
+# ACME.sh
 neilpang/acme.sh:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/acme.sh:latest"
+
+# MySQL
 mysql:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/mysql:latest"
 mysql:8: "registry.cn-hangzhou.aliyuncs.com/commonly-images/mysql:8"
 mysql:8.0: "registry.cn-hangzhou.aliyuncs.com/commonly-images/mysql:8.0"
 mysql:5.7: "registry.cn-hangzhou.aliyuncs.com/commonly-images/mysql:5.7"
+
+# Debian
 debian:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/debian:latest"
 debian:bookworm: "registry.cn-hangzhou.aliyuncs.com/commonly-images/debian:bookworm"
 debian:bullseye: "registry.cn-hangzhou.aliyuncs.com/commonly-images/debian:bullseye"
+
+# 监控组件
 prom/node-exporter:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node-exporter:latest"
 google/cadvisor:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/cadvisor:latest"
+
+# WordPress
 wordpress:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/wordpress:latest"
 wordpress:php7.4-fpm: "registry.cn-hangzhou.aliyuncs.com/commonly-images/wordpress:php7.4-fpm"
+
+# Alpine Linux
 alpine:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/alpine:latest"
 alpine:3.16: "registry.cn-hangzhou.aliyuncs.com/commonly-images/alpine:3.16"
 alpine:3.18: "registry.cn-hangzhou.aliyuncs.com/commonly-images/alpine:3.18"
+
+# Node.js
 node:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node:latest"
 node:18: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node:18"
 node:20: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node:20"
