@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # every day at 7am & 7pm pacific
-    - cron: "0 2,14 * * *"
+    - cron: "0 0,2,14,18 * * *"
 
 jobs:
   sync-images:
@@ -17,6 +17,6 @@ jobs:
           auth_file: ./auth.yaml
           images_file: ./images.yaml
           version: latest
-          proc: 1
+          proc: 6
         env:
           ACR_PASSWORD: ${{ secrets.ACR_PASSWORD }}
