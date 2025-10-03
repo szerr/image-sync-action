@@ -25,6 +25,9 @@ debian:bullseye: "registry.cn-hangzhou.aliyuncs.com/commonly-images/debian:bulls
 # 监控组件
 prom/node-exporter:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node-exporter:latest"
 google/cadvisor:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/cadvisor:latest"
+prom/prometheus:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/prometheus:latest"
+prom/prometheus:v3.6.0: "registry.cn-hangzhou.aliyuncs.com/commonly-images/prometheus:v3.6.0"
+grafana/grafana:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/grafana:latest"
 
 # WordPress
 wordpress:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/wordpress:latest"
