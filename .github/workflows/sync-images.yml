@@ -3,7 +3,7 @@ name: Sync images
 on:
   workflow_dispatch:
   schedule:
-    # every day at 8, 14, 1am pacific
+    # every day at 8, 14 pacific
     - cron: "0 0,6 * * *"
 
 jobs:

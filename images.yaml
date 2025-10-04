@@ -39,4 +39,8 @@ alpine:3.16: "registry.cn-hangzhou.aliyuncs.com/commonly-images/alpine:3.16"
 alpine:3.18: "registry.cn-hangzhou.aliyuncs.com/commonly-images/alpine:3.18"
 
 # Node.js
-node: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node"
+node:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node:latest"
+node:18: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node:18"
+node:20: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node:20"
+node:22-bookworm: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node:22-bookworm"
+node:22-bookworm-slim: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node:22-bookworm-slim"
