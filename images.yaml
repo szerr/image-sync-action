@@ -38,7 +38,7 @@ wordpress:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/wordpress:l
 wordpress:php7.4-fpm: "registry.cn-hangzhou.aliyuncs.com/commonly-images/wordpress:php7.4-fpm"
 
 # Alpine Linux
-alpine: "registry.cn-hangzhou.aliyuncs.com/commonly-images/alpine:latest"
+alpine:latest: "registry.cn-hangzhou.aliyuncs.com/commonly-images/alpine:latest"
 alpine:3.16: "registry.cn-hangzhou.aliyuncs.com/commonly-images/alpine:3.16"
 alpine:3.18: "registry.cn-hangzhou.aliyuncs.com/commonly-images/alpine:3.18"
 
@@ -52,6 +52,6 @@ node:22-bookworm: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node:22-boo
 node:22-bookworm-slim: "registry.cn-hangzhou.aliyuncs.com/commonly-images/node:22-bookworm-slim"
 
 # chrome
-kasmweb/chrome:1.16.0: "registry.cn-hangzhou.aliyuncs.com/commonly-images/kasmweb-chrome"
-kasmweb/chrome:1.17.0: "registry.cn-hangzhou.aliyuncs.com/commonly-images/kasmweb-chrome"
 kasmweb/chrome:1.18.0: "registry.cn-hangzhou.aliyuncs.com/commonly-images/kasmweb-chrome"
+kasmweb/chrome:1.17.0: "registry.cn-hangzhou.aliyuncs.com/commonly-images/kasmweb-chrome"
+kasmweb/chrome:1.16.0: "registry.cn-hangzhou.aliyuncs.com/commonly-images/kasmweb-chrome"
